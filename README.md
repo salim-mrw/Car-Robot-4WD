@@ -10,7 +10,7 @@ An car robot 4WD built on Arduino Mica controller and ESP-32 can be controlled f
 
 ## Component Stack
 
-### conroller
+### controller
 ### Sensor
 ### motor
 ### other
