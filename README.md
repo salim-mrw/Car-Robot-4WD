@@ -30,12 +30,11 @@ An car robot 4WD built on Arduino Mica controller and ESP-32 can be controlled f
 - Ultrasonic
 ### motor
 - DC Motor
-### other
-- led
-- buzzer
+### Other
+- Led
+- Buzzer
 - Motor Shild
 - TTL Wire
-
 
 
 ## Electronic Circute
