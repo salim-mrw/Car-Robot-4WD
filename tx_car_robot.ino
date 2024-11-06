@@ -27,6 +27,7 @@ void setup() {
   delay(1000); 
   
   pinMode(19,OUTPUT);
+  pinMode(a,INPUT_PULLUP);
 
   // Defined in thingProperties.h
   initProperties();
